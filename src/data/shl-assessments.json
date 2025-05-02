@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Verify G+ (Inductive)",
+    "category": "Cognitive Ability",
+    "description": "Measures inductive reasoning ability - the ability to draw inferences and understand relationships between various concepts independent of acquired knowledge.",
+    "url": "https://www.shl.com/assessments/cognitive-ability/verify-g-inductive/"
+  },
+  {
+    "name": "Verify G+ (Deductive)",
+    "category": "Cognitive Ability",
+    "description": "Measures deductive reasoning ability - the ability to draw logical conclusions based on information provided, identify strengths and weaknesses of arguments, and complete scenarios using incomplete information.",
+    "url": "https://www.shl.com/assessments/cognitive-ability/verify-g-deductive/"
+  },
+  {
+    "name": "Verify G+ (Numerical)",
+    "category": "Cognitive Ability",
+    "description": "Measures numerical reasoning ability - the ability to make correct decisions or inferences from numerical data.",
+    "url": "https://www.shl.com/assessments/cognitive-ability/verify-g-numerical/"
+  },
+  {
+    "name": "OPQ (Occupational Personality Questionnaire)",
+    "category": "Personality",
+    "description": "Provides an indication of an individual's preferred behavioral style at work. Helps gauge suitability for a role, team, and organization.",
+    "url": "https://www.shl.com/assessments/personality/opq/"
+  },
+  {
+    "name": "MQ (Motivation Questionnaire)",
+    "category": "Personality",
+    "description": "Measures the situations that are likely to increase or reduce an individual's motivation to work.",
+    "url": "https://www.shl.com/assessments/personality/motivation-questionnaire-mq/"
+  },
+  {
+    "name": "Coding Assessment",
+    "category": "Technical Skills",
+    "description": "Assesses coding skills in various programming languages through real-world tasks.",
+    "url": "https://www.shl.com/assessments/technical-skills/coding-assessment/"
+  },
+  {
+    "name": "Situational Judgment Test (SJT)",
+    "category": "Behavioral",
+    "description": "Presents realistic work-related scenarios to assess judgment and decision-making skills.",
+    "url": "https://www.shl.com/assessments/behavioral/situational-judgment-tests-sjts/"
+  },
+  {
+    "name": "Verify Interactive - Calculation",
+    "category": "Cognitive Ability",
+    "description": "Assesses the ability to perform numerical calculations quickly and accurately in a work context.",
+    "url": "https://www.shl.com/assessments/cognitive-ability/verify-interactive-calculation/"
+  },
+  {
+    "name": "Verify Interactive - Checking",
+    "category": "Cognitive Ability",
+    "description": "Measures the ability to quickly and accurately compare information.",
+    "url": "https://www.shl.com/assessments/cognitive-ability/verify-interactive-checking/"
+  }
+]
